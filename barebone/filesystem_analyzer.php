@@ -1,4 +1,3 @@
-#!/usr/bin/env php
 <?php
 $rawOutput = [];
 exec('df -h -T', $rawOutput, $returnCode);
