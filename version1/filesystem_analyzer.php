@@ -1,4 +1,4 @@
-#!/usr/bin/env php
+
 <?php
 function getFilesystemData(): array {
     $output = [];
